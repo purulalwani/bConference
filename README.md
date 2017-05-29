@@ -6,6 +6,7 @@ Ethereum blockchain smart contract to organize conference where you can buy tick
 
 1. Install truffle `npm install -g truffle` and 
 2. install ethereum client `npm install -g ethereumjs-testrpc` and run test node `testrpc` or ou can geth node client.
+3. Go to bConference folder and run `npm install`
 3. Run `truffle compile`, then run `truffle migrate` to deploy the contracts onto your network of choice (default "development").
 4. Then run `npm run dev` to build the app and serve it on http://localhost:8080
 
